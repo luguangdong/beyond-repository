@@ -37,6 +37,7 @@
 
     <modules>
         <!-- 服务模块 -->
+        <module>beyond-repository-core</module>
     </modules>
 
     <dependencies>
