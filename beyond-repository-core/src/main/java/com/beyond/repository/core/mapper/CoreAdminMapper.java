@@ -15,4 +15,5 @@ import com.beyond.repository.core.domain.CoreAdmin;
  * @company https://www.beyond.com/
  */
 public interface CoreAdminMapper extends BaseMapper<CoreAdmin> {
+
 }

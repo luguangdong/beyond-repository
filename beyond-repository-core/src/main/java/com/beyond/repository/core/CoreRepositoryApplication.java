@@ -18,7 +18,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @MapperScan(basePackages = "com.beyond.repository.core.mapper")
 public class CoreRepositoryApplication {
-    public static void main(String[] args) {
-        SpringApplication.run(CoreRepositoryApplication.class, args);
-    }
+
+	public static void main(String[] args) {
+		SpringApplication.run(CoreRepositoryApplication.class, args);
+	}
+
 }

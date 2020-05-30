@@ -12,4 +12,5 @@ package com.beyond.repository.core;
  * @company https://www.beyond.com/
  */
 public class CoreAdminMapperTests {
+
 }
